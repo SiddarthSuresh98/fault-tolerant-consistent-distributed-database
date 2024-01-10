@@ -1,2 +1,2 @@
 # fault-tolerant-consistent-distributed-database
- Fault Tolerant Consistent Database based on PAXOS using Cassandra as the database
+ Fault Tolerant Consistent Database with roll forward and checkpointing mechanism based on PAXOS using Apache Cassandra as the database
